@@ -7,6 +7,17 @@
       "email": "john@g.c",
       "password" : "1234"
     }
-  ]
+    
+  ],
+
+  "tracker" : [
+    {
+      "type" : "income",
+      "category" : "salary",
+      "amount" : "20000",
+      "date" : "2023-06-06",
+      "user_id" : "1"
+  }
+]
   
 }
